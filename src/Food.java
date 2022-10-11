@@ -1,7 +1,7 @@
 public class Food {
 
     public void eat(){
-        //TODO
+        System.out.println("Yummy Food");
     }
 
 }
